@@ -3,8 +3,8 @@ import { HelloInordic } from './components/inordic/inordic'
 
 function App() {
   return (
-    <div className="App">
-      <HelloInordic name='Компонент Hello Inordic'/>
+    <div>
+      <HelloInordic name='Компонент Hello Inordic' />
     </div>
   );
 }
